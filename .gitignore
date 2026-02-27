@@ -1,0 +1,18 @@
+# Sensitive Information
+.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environments / Toolboxes
+venv/
+env/
+
+# Large Model Weights and Outputs
+output-gemma-3-4b-it-lora/
+*.safetensors
+*.bin
